@@ -1,0 +1,14 @@
+{
+    "rules": {
+        "no-duplicate-selectors": true,
+        "no-invalid-double-slash-comments": true,
+        "no-extra-semicolons": true,
+        "comment-no-empty": true,
+        "length-zero-no-unit": true,
+        "color-hex-case": "lower",
+        "color-hex-length": "long",
+        "string-quotes": "single",
+        "indentation": 4,
+        "shorthand-property-no-redundant-values": true
+    }
+}
