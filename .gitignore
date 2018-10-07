@@ -1,1 +1,7 @@
 node_modules
+.htmllintrc
+.stylelintrc
+gulpfile.js
+package.json
+package-lock.json
+
